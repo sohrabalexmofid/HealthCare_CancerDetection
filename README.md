@@ -1,6 +1,6 @@
 **CancerDetection_ICMR Data**
 
- *identification of various cancer types based on genes to reduce fatality rate*
+ *identification of various cancer types based on genes to reduce fatality rate.*
  
 <p align="center">
   <img width="261" alt="Screenshot 2023-03-10 at 3 20 26 PM" src="https://user-images.githubusercontent.com/123208599/224420946-742b7958-56d4-48d7-a859-ef6224a30cf8.png">
